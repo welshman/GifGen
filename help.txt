@@ -1,0 +1,4 @@
+Commands:
+
+>help - link to this file
+>discord - discord link
