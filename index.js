@@ -34,4 +34,15 @@ if(message.content === '>gamekit') return message.channel.send("Gamekit Gift Car
 if(message.content === '>itunes') return message.channel.send("iTunes Gift Card: "+ randomizer(16,'0A'));
 if(message.content === '>netflix') return message.channel.send("Netflix Gift Card: LEQ"+ randomizer(1,'0')+ randomizer(1,'A')+ randomizer(6,'0'));
 if(message.content === '>fortnite') return message.channel.send("Fortnite Gift Card: "+ randomizer(5,'0A')+ "-"+ randomizer(5,'0A')+ "-"+ randomizer(5,'0A')+ "-"+  randomizer(5,'0A')+ "-"+ randomizer(5,'0A'));
+if(message.content === '>xbox') return message.channel.send("Xbox Gift Card: "+ randomizer(5,'0A')+ "-"+ randomizer(5,'0A')+ "-"+ randomizer(5,'0A')+ "-"+  randomizer(5,'0A')+ "-"+ randomizer(5,'0A'));
+if(message.content === '>roblox') return message.channel.send("Roblox Gift Card: "+ randomizer(3,'0')+ " "+ randomizer(3,'0')+ " "+ randomizer(4,'0'));
+if(message.content === '>minecraft') return message.channel.send("Minecraft Gift Card: "+ randomizer(4,'0A')+ "-"+ randomizer(4,'0A')+ "-"+ randomizer(4,'0A'));
+if(message.content === '>psn') return message.channel.send("PSN Gift Card: "+ randomizer(4,'0A')+ "-"+ randomizer(4,'0A')+ "-"+ randomizer(4,'0A'));
+if(message.content === '>paypal') return message.channel.send("Paypal Gift Card: "+ randomizer(4,'0A')+ "-"+ randomizer(4,'0A')+ "-"+ randomizer(4,'0A'));
+if(message.content === '>ebay') return message.channel.send("Ebay Gift Card: "+ randomizer(5,'0A')+ "-"+ randomizer(5,'0A'));
+if(message.content === '>googleplay') return message.channel.send("Google Play Gift Card: "+ randomizer(4,'0A')+ "-"+ randomizer(4,'0A')+ "-"+ randomizer(4,'0A')+ "-"+ randomizer(4,'0A')+ "-"+ randomizer(4,'0A'));
+if(message.content === '>steam1') return message.channel.send("Steam Gift Card: "+ randomizer(5,'0A')+ "-"+ randomizer(5,'0A')+ "-"+ randomizer(5,'0A'));
+if(message.content === '>steam2') return message.channel.send("Steam Gift Card: "+ randomizer(4,'0A')+ "-"+ randomizer(6,'0A')+ "-"+ randomizer(5,'0A'));
+if(message.content === '>amazon1') return message.channel.send("Amazon Gift Card: "+ randomizer(4,'0A')+ "-"+ randomizer(6,'0A')+ "-"+ randomizer(5,'0A'));
+if(message.content === '>amazon2') return message.channel.send("Amazon Gift Card: "+ randomizer(4,'0A')+ "-"+ randomizer(6,'0A')+ "-"+ randomizer(4,'0A'));
 });

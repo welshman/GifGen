@@ -12,3 +12,14 @@ Commands:
 >itunes - iTunes Gift Card
 >netflix - Netflix Gift Card
 >fortnite - Fortnite Gift Card
+>xbox - Xbox Gift Card
+>roblox - Roblox Gift Card
+>minecraft - Minecraft Gift Card
+>psn - PSN Gift Card
+>paypal - Paypal Gift Card
+>ebay - Ebay Gift Card
+>googleplay - Google Play Gift Card
+>steam1 - Steam Gift Card (XXXXX-XXXXX-XXXXX)
+>steam2 - Steam Gift Card (XXXX-XXXXXX-XXXXX)
+>amazon1 - Amazon Gift Card (XXXX-XXXXXX-XXXXX)
+>amazon2 - Amazon Gift Card (XXXX-XXXXXX-XXXX)
