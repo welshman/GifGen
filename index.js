@@ -26,5 +26,6 @@ results += randomizer[Math.floor(Math.random() * randomizer.length)];
 return results;
 
 }
-if(message.content === '>nitro') return message.channel.send("https:/"+"/discord.gift/"+ randomizer(16,'0aA'));
+if(message.content === '>help') return message.channel.send("https://raw.githubusercontent.com/welshman/NitGen/master/help.txt");
+if(message.content === '>discord') return message.channel.send("https://discord.gg/SuFN7eD");
 });
