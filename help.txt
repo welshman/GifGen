@@ -11,3 +11,4 @@ Commands:
 >gamekit - Gamekit Gift Card
 >itunes - iTunes Gift Card
 >netflix - Netflix Gift Card
+>fortnite - Fortnite Gift Card
