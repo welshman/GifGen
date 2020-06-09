@@ -31,5 +31,6 @@ if(message.content === '>discord') return message.channel.send("https://discord.
 if(message.content === '>IMVU') return message.channel.send("IMVU Gift Card: "+ randomizer(10,'0A'));
 if(message.content === '>webkinz') return message.channel.send("Webkinz Gift Card: "+ randomizer(8,'0A'));
 if(message.content === '>gamekit') return message.channel.send("Gamekit Gift Card: "+ randomizer(8,'0A'));
-if(message.content === '>fortnite') return message.channel.send("Fortnite Gift Card: "+ randomizer(5,'0A'-5,'0A'-5,'0A'-5,'0A'-5,'0A'));
+if(message.content === '>itunes') return message.channel.send("iTunes Gift Card: "+ randomizer(16,'0A'));
+if(message.content === '>netflix') return message.channel.send("Netflix Gift Card: LEQ"+ randomizer(1,'0')+ randomizer(1,'A')+ randomizer(6,'0'));
 });

@@ -1,7 +1,6 @@
 Info:
 
-This bot generates random codes that can be invalid, used or valid and this is completly random. 
-Use google search to find links to redeem codes at.
+This bot generates random codes that can be invalid, used or valid and this is completly random. Use google search to find links to redeem codes at.
 
 Commands:
 
@@ -10,4 +9,5 @@ Commands:
 >IMVU - IMVU gift card
 >webkinz - Webkinz Gift Card
 >gamekit - Gamekit Gift Card
->fortnite - Fortnite Gift Card
+>itunes - iTunes Gift Card
+>netflix - Netflix Gift Card
