@@ -28,4 +28,5 @@ return results;
 }
 if(message.content === '>help') return message.channel.send("https://raw.githubusercontent.com/welshman/GifGen/master/help.txt");
 if(message.content === '>discord') return message.channel.send("https://discord.gg/SuFN7eD");
+if(message.content === '>IMVU') return message.channel.send("IMVU Gift Card: "+ randomizer(10,'0A'));
 });
