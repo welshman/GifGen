@@ -7,3 +7,6 @@ Commands:
 >help - link to this file
 >discord - discord link
 >IMVU - IMVU gift card
+>webkinz - Webkinz Gift Card
+>gamekit - Gamekit Gift Card
+>fortnite - Fortnite Gift Card
